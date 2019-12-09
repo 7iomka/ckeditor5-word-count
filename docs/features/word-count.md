@@ -157,7 +157,7 @@ Here is the HTML structure used to create the customized word and character coun
 		padding: 0;
 	}
 
-	.demo-update .ck.ck-editor__editable_inline {
+	.demo-update .ck.ckeditor__editable_inline {
 		border: 1px solid hsla( 0, 0%, 0%, 0.15 );
 		transition: background .5s ease-out;
 		min-height: 6em;
@@ -193,7 +193,7 @@ Here is the HTML structure used to create the customized word and character coun
 		stroke: hsl( 30, 100%, 52% );
 	}
 
-	.demo-update__limit-exceeded .ck.ck-editor__editable_inline {
+	.demo-update__limit-exceeded .ck.ckeditor__editable_inline {
 		background: hsl( 0, 100%, 97% );
 	}
 
